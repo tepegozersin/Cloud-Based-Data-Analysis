@@ -1,11 +1,14 @@
-Daily Purchase Analysis
-This folder contains two SQL queries analyzing purchase behavior for October 2019:
+# Daily Purchase Analysis
 
-daily_purchase_counts.sql
-Calculates the total number of purchases per day, showing daily sales volume trends.
+This folder contains two SQL queries analyzing purchase behavior for **October 2019**:
 
-daily_purchase_summary.sql
-Provides a more detailed daily summary including total purchases, total revenue, and average purchase price per day.
+- **`daily_purchase_counts.sql`**  
+  Calculates the total number of purchases per day, showing daily sales volume trends.
 
-Together, these analyses give a comprehensive view of the platform’s daily sales activity and revenue fluctuations during October 2019.
+- **`daily_purchase_summary.sql`**  
+  Provides a more detailed daily summary including:
+  - Total purchases  
+  - Total revenue  
+  - Average purchase price per day
 
+Together, these analyses offer a comprehensive view of the platform’s **daily sales activity** and **revenue fluctuations** during October 2019.
