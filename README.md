@@ -65,7 +65,7 @@ Two Looker Studio dashboard pages summarize the main findings:
 
 | Sales & User Activity Summary                              | Top Brands & Loyal Customers                               |
 |------------------------------------------------------------|------------------------------------------------------------|
-| ![Sales & User Activity Summary](visualizations/sales_user_activity_summary.png) | ![Top Brands & Loyal Customers](visualizations/top_brands_loyal_customers.png) |
+| ![Sales & User Activity Summary](visualizations/Sales & User Activity Summary.png) | ![Top Brands & Loyal Customers](visualizations/Top Brands & Loyal Customers.png) |
 
 ---
 
