@@ -4,6 +4,16 @@ This repository contains a comprehensive cloud-based data analysis project focus
 
 ---
 
+## Data & Tools
+
+- **Dataset:** [eCommerce Behavior Data from Multi-category Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store) (via Kaggle) Published by: Mikhail Kechinov 
+- **Data Processing:** Google BigQuery  
+- **Visualization:** Looker Studio  
+- **Version Control & Documentation:** GitHub
+
+
+
+
 ## Repository Structure
 
 The project is organized into the following folders, each with detailed SQL queries and README documentation:
@@ -68,12 +78,6 @@ Two Looker Studio dashboard pages summarize the main findings:
 | ![Sales & User Activity Summary](visualizations/Sales_User_Activity_Summary.png) | ![Top Brands & Loyal Customers](visualizations/Top_Brands_Loyal_Customers.png) |
 
 ---
-## Dataset Source
-
-The data used in this project comes from the publicly available Kaggle dataset:  
-📦 [eCommerce Behavior Data from Multi-category Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)  
-Published by: Mikhail Kechinov
-
 
 ## Contact
 
